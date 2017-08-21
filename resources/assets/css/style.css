@@ -1,0 +1,56 @@
+[v-cloak] {
+  display: none;
+}
+
+.text-center {
+    text-align: center !important;
+}
+
+.avatar-80 {
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+}
+
+.avatar-40 {
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+}
+
+.index-card .avatar-120 {
+    height: 120px;
+    width: 120px;
+    border-radius: 50%;
+    border: 2px solid #fff;
+}
+
+.customers-table td{
+    padding: .25rem .75rem !important;
+}
+
+.customers-table .btn{
+    min-width: 0px !important;
+}
+
+.index-card .pmd-card-title {
+    background: #eee; 
+    border-bottom: 1px solid #ddd
+}
+
+.fa-2x {
+    margin: 5px;
+}
+
+/* Fonts */
+.silver-text {
+    color: #8492a6;
+}
+
+.extra-light-black-text {
+    color: #475669;
+}
+.container {
+    width: 100%;
+}
+
